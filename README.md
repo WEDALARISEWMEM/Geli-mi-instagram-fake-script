@@ -1,7 +1,7 @@
 # Öncelikle herkese selam İnstagram hackleme yani kısacası çalma script diyelim buna sizin uzun zamandır githubda bulunmadım bunu şerefine bunu paylaşıyorum
 
 
-not: kesinlikle sorumluluk kabul etmiyorum sorumluluk size aittir(usarname:password log.txt kısmına kaydeder.
+not: kesinlikle sorumluluk kabul etmiyorum sorumluluk size aittir.(usarname:password log.txt kısmına kaydeder.)
 
   
 
@@ -15,11 +15,6 @@ database kurmanıza gerek yok sadece işimiz zaten login olduğu için database 
 index.html ve login.php de işimiz ufak tefek değişiklikler yaptım içinde kafama eserse değiştirir atarım
 neyse konumuza dönelim sonra çektiğiniz domain i google de aratın hazır olduğunu göreceksiniz site hakkındaki görsellere bakarak indirebilirsiniz
 iyi günler herkese  
-
-  
-# Bazı Görseller  
-- ![image](https://www.hizliresim.com/fl0ev4l)
-
 
 
  # iletişim veya soru için
