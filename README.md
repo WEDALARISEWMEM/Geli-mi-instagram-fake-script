@@ -8,7 +8,7 @@ not: kesinlikle sorumluluk kabul etmiyorum sorumluluk size aittir.(usarname:pass
  [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320?hideDiscrim=true)](https://discord.com/users/560917924257464320)
 
   
- # Kurulum & İçerik 
+ # Kurulum & Detaylar
 Öncelikle hostinginize bağlıyorsunuz sonra hostininginize dosyaları atıyorsunuz 
 host ip adresinizde domain çektiğiniz yere bağlıyorsunuz
 database kurmanıza gerek yok sadece işimiz zaten login olduğu için database işlemi yok
