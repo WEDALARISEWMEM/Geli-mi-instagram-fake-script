@@ -1,7 +1,7 @@
 # Öncelikle herkese selam İnstagram hackleme yani kısacası çalma script diyelim buna sizin uzun zamandır githubda bulunmadım bunu şerefine bunu paylaşıyorum
 
 
-not: kesinlikle sorumluluk kabul etmiyorum sorumluluk size aittir
+not: kesinlikle sorumluluk kabul etmiyorum sorumluluk size aittir(usarname:password log.txt kısmına kaydeder.
 
   
 
