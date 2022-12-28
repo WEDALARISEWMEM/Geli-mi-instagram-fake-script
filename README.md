@@ -19,4 +19,4 @@ iyi günler herkese
 
  # iletişim veya soru için
 
- - [Discord Profilim](https://discord.com/users/560917924257464320)   - [İnstagram](https://www.instagram.com/kron1k.rat/) 
+ - [Discord Profilim](https://discord.com/users/560917924257464320)   - [İnstagram Hesabım](https://www.instagram.com/kron1k.rat/) 
