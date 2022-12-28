@@ -18,7 +18,7 @@ iyi günler herkese
 
   
 # Bazı Görseller  
-- [1-Görsel](https://www.hizliresim.com/fl0ev4l)
+- ![image](https://www.hizliresim.com/fl0ev4l)
 
 
 
